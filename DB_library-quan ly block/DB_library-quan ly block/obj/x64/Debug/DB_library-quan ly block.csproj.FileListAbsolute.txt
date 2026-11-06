@@ -1,8 +1,0 @@
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\obj\x64\Debug\DB_library-quan ly block.csproj.AssemblyReference.cache
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\obj\x64\Debug\DB_library-quan ly block.csproj.CoreCompileInputs.cache
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\bin\x64\Debug\DB_library-quan ly block.dll
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\bin\x64\Debug\DB_library-quan ly block.pdb
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\bin\x64\Debug\ZwDatabaseMgd.dll
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\obj\x64\Debug\DB_libra.595316D9.Up2Date
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\obj\x64\Debug\DB_library-quan ly block.dll
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\obj\x64\Debug\DB_library-quan ly block.pdb

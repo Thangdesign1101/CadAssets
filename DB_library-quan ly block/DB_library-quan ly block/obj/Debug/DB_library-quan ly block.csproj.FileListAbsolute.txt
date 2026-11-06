@@ -1,2 +1,0 @@
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\obj\Debug\DB_library-quan ly block.csproj.AssemblyReference.cache
-C:\Users\thangnt\source\repos\DB_library-quan ly block\DB_library-quan ly block\obj\Debug\DB_library-quan ly block.csproj.CoreCompileInputs.cache
