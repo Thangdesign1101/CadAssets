@@ -1,6 +1,0 @@
-C:\Users\thangnt\source\repos\DB_ArchitectTools\DB_ArchitectTools\bin\Debug\DB_ArchitectTools.dll
-C:\Users\thangnt\source\repos\DB_ArchitectTools\DB_ArchitectTools\bin\Debug\DB_ArchitectTools.pdb
-C:\Users\thangnt\source\repos\DB_ArchitectTools\DB_ArchitectTools\obj\Debug\DB_ArchitectTools.csproj.AssemblyReference.cache
-C:\Users\thangnt\source\repos\DB_ArchitectTools\DB_ArchitectTools\obj\Debug\DB_ArchitectTools.csproj.CoreCompileInputs.cache
-C:\Users\thangnt\source\repos\DB_ArchitectTools\DB_ArchitectTools\obj\Debug\DB_ArchitectTools.dll
-C:\Users\thangnt\source\repos\DB_ArchitectTools\DB_ArchitectTools\obj\Debug\DB_ArchitectTools.pdb
