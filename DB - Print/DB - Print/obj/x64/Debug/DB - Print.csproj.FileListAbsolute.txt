@@ -1,6 +1,0 @@
-C:\Users\thangnt\source\repos\DB - Print\DB - Print\obj\x64\Debug\DB - Print.csproj.AssemblyReference.cache
-C:\Users\thangnt\source\repos\DB - Print\DB - Print\obj\x64\Debug\DB - Print.csproj.CoreCompileInputs.cache
-C:\Users\thangnt\source\repos\DB - Print\DB - Print\bin\x64\Debug\DB - Print.dll
-C:\Users\thangnt\source\repos\DB - Print\DB - Print\bin\x64\Debug\DB - Print.pdb
-C:\Users\thangnt\source\repos\DB - Print\DB - Print\obj\x64\Debug\DB - Print.dll
-C:\Users\thangnt\source\repos\DB - Print\DB - Print\obj\x64\Debug\DB - Print.pdb

@@ -1,2 +1,0 @@
-C:\Users\thangnt\source\repos\DB - Print\DB - Print\obj\Debug\DB - Print.csproj.AssemblyReference.cache
-C:\Users\thangnt\source\repos\DB - Print\DB - Print\obj\Debug\DB - Print.csproj.CoreCompileInputs.cache
