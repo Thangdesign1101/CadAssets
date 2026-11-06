@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="LibraryDB/LibraryDB.csproj" Id="5b60b21d-81af-43eb-b366-4ce9ce011a1b">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

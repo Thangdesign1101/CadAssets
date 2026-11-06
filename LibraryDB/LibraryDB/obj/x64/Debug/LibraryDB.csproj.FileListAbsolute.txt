@@ -1,0 +1,6 @@
+C:\Users\thangnt\source\repos\LibraryDB\LibraryDB\bin\x64\Debug\LibraryDB.dll
+C:\Users\thangnt\source\repos\LibraryDB\LibraryDB\bin\x64\Debug\LibraryDB.pdb
+C:\Users\thangnt\source\repos\LibraryDB\LibraryDB\obj\x64\Debug\LibraryDB.csproj.AssemblyReference.cache
+C:\Users\thangnt\source\repos\LibraryDB\LibraryDB\obj\x64\Debug\LibraryDB.csproj.CoreCompileInputs.cache
+C:\Users\thangnt\source\repos\LibraryDB\LibraryDB\obj\x64\Debug\LibraryDB.dll
+C:\Users\thangnt\source\repos\LibraryDB\LibraryDB\obj\x64\Debug\LibraryDB.pdb

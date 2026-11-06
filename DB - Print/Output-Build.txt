@@ -1,0 +1,5 @@
+﻿Build started at 4:11 PM...
+1>------ Build started: Project: LibraryDB, Configuration: Debug x64 ------
+1>  LibraryDB -> C:\Users\thangnt\source\repos\LibraryDB\LibraryDB\bin\x64\Debug\LibraryDB.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 4:11 PM and took 00.723 seconds ==========
