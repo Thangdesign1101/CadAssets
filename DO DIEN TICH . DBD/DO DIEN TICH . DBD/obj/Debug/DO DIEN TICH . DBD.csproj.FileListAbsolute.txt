@@ -1,6 +1,0 @@
-C:\Users\thangnt\source\repos\DO DIEN TICH . DBD\DO DIEN TICH . DBD\obj\Debug\DO DIEN TICH . DBD.csproj.AssemblyReference.cache
-C:\Users\thangnt\source\repos\DO DIEN TICH . DBD\DO DIEN TICH . DBD\obj\Debug\DO DIEN TICH . DBD.csproj.CoreCompileInputs.cache
-C:\Users\thangnt\source\repos\DO DIEN TICH . DBD\DO DIEN TICH . DBD\bin\Debug\DO_DIEN_TICH.DBD.dll
-C:\Users\thangnt\source\repos\DO DIEN TICH . DBD\DO DIEN TICH . DBD\bin\Debug\DO_DIEN_TICH.DBD.pdb
-C:\Users\thangnt\source\repos\DO DIEN TICH . DBD\DO DIEN TICH . DBD\obj\Debug\DO_DIEN_TICH.DBD.dll
-C:\Users\thangnt\source\repos\DO DIEN TICH . DBD\DO DIEN TICH . DBD\obj\Debug\DO_DIEN_TICH.DBD.pdb
